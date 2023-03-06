@@ -1,6 +1,5 @@
-# Job_Rotation
+# Desafios Gupy Percentual De Estados
 
-Desafios Gupy
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
